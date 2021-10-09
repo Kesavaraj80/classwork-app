@@ -74,14 +74,6 @@ export default function App() {
       </div>
     );
   }
-
-  function Delete(){
-    return(
-      <div>
-      <button>Delete Movie</button>
-      </div>
-    )
-  }
 }
 
 
